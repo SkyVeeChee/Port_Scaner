@@ -1,0 +1,7 @@
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\obj\Debug\TCPPortTracker.csprojAssemblyReference.cache
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\obj\Debug\TCPPortTracker.csproj.CoreCompileInputs.cache
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\bin\Debug\TCPPortTracker.exe.config
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\bin\Debug\TCPPortTracker.exe
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\bin\Debug\TCPPortTracker.pdb
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\obj\Debug\TCPPortTracker.exe
+D:\папка програм на c#\TCPPortTracker\TCPPortTracker\obj\Debug\TCPPortTracker.pdb
